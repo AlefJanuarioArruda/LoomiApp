@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "834659505438",
+    "project_id": "loomi-7559d",
+    "storage_bucket": "loomi-7559d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834659505438:android:e7ed6c5fc14fd99c31e50f",
+        "android_client_info": {
+          "package_name": "com.loomi.teste.loomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834659505438-7s41umf57m4ukkvou01j4bfv2tali140.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp1rt3RQEgkeDim-QHiZ3bts8Z9K3BdkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834659505438-7s41umf57m4ukkvou01j4bfv2tali140.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834659505438:android:9a4d84fdaf8245d731e50f",
+        "android_client_info": {
+          "package_name": "com.project.loomi.projectloomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834659505438-7s41umf57m4ukkvou01j4bfv2tali140.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp1rt3RQEgkeDim-QHiZ3bts8Z9K3BdkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834659505438-7s41umf57m4ukkvou01j4bfv2tali140.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
