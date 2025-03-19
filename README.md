@@ -1,6 +1,6 @@
 # Loomi Stream - Flutter App
 
-Um aplicativo de streaming desenvolvido em Flutter com autenticação via Firebase, suporte a legendas, comentários em tempo real (Firestore) e gerenciamento completo do perfil do usuário.
+Um aplicativo de streaming desenvolvido em Flutter com autenticação via Firebasee gerenciamento completo do perfil do usuário.
 
 ## 🚀 Começando
 
